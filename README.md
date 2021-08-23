@@ -1,6 +1,7 @@
 # mycode (Project Title)
 
 Build microservices architecture
+Also learn version control with git
 
 ## Getting Started
 
